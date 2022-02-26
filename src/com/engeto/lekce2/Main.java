@@ -58,7 +58,7 @@ public class Main {
 
 
         Player theBest = new Player("Lionel Messi",LocalDate.of(1988,6,24),10);
-        Player theWorst = new Player("Cristiano Ronaldo",LocalDate.of(1950,7,10));
+
 
     }
 }
