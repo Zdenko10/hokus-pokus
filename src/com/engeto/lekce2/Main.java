@@ -56,9 +56,5 @@ public class Main {
 
 
 
-
-        Player theBest = new Player("Lionel Messi",LocalDate.of(1988,6,24),10);
-
-
     }
 }
